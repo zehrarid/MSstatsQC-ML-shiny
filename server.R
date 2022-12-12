@@ -1,2 +1,6 @@
 library(shiny)
-server <- function(input, output) {}
+source("panels/spc-server.R")
+server <- function(input, output) {
+  
+  
+}
